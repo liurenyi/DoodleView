@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">DoodleView</string>
     <string name="app_button_1">Undo</string>
+    <string name="app_button_2">BackUndo</string>
+    <string name="app_button_3">red color</string>
+    <string name="app_button_4">paint width</string>
 </resources>
